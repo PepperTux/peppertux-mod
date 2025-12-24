@@ -3,6 +3,7 @@
   (name (_ "Welcome To PepperTux"))
   (author "Sophie \"Vaesea\" Ball")
   (license "CC-BY-SA 4.0 International")
+  (target-time 49)
   (sector
     (name "main")
     (ambient-light
