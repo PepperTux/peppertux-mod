@@ -1,7 +1,7 @@
 (supertux-level
   (version 3)
   (name (_ "Icy Island Worldmap"))
-  (author "Sophie Ball")
+  (author "Sophie \"Vaesea\" Ball")
   (license "CC-BY-SA 4.0 International")
   (sector
     (name "main")
@@ -18,6 +18,7 @@
       (y 91)
     )
     (level
+      (level "bombs_here.stl")
       (x 17)
       (y 93)
     )
