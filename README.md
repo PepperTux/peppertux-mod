@@ -12,4 +12,20 @@ Icy Island hasn't been replaced yet, but most levels, including world 2 levels, 
 I also intend to replace Tux's ground-pound / butt-jump animation with the old image to make this more 0.5-like, however, the Owl images will likely be replaced with the 0.6.3 images.
 
 ## Credits
-Read the credits of peppertux-haxe, I plan to add the credits here soon but not until I add the data folder.
+### PepperTux
+* Vaesea - Not really much right now
+* FilipOK - Art, music that will be added later
+### SuperTux Team
+* Grumbel - Art for SuperTux
+* Stephen Groundwater - Art for SuperTux
+* BlasterMaster - Art for SuperTux
+* Wansti - Music for SuperTux
+* Jonfx1007 - Improved SuperTux's forest tileset (and since this is a mod with the entire data folder but modified, those improvements are here obviously)
+* Weluvgoatz - Snow fort tiles (used as sand tiles here with the saturation reduced and with it also being recolored)
+* DJ Gentoo - New Salcon
+### Everyone Else
+* Bart + opengameart.org - Airship Song
+* Remaxim + opengameart.org - Orchestral Remix of Airship Song
+* Lukas Nystrand (Mortimer Twang) - Mortimer's Chipdisko
+* Mystical - Salcon
+* Larry Ewing - Creator of Tux
