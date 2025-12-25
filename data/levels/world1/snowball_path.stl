@@ -48,6 +48,10 @@
       (x 15776)
       (y 1184)
     )
+    (firefly
+      (x 9408)
+      (y 1024)
+    )
     (jumpy
       (direction "left")
       (x 2368)

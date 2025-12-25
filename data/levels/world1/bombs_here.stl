@@ -30,6 +30,10 @@
       (x 15776)
       (y 640)
     )
+    (firefly
+      (x 8736)
+      (y 800)
+    )
     (flyingsnowball
       (direction "left")
       (x 4224)
@@ -96,7 +100,7 @@
     )
     (mrbomb
       (direction "left")
-      (x 8896)
+      (x 8960)
       (y 896)
     )
     (mrbomb
@@ -218,11 +222,6 @@
       (direction "left")
       (x 6816)
       (y 736)
-    )
-    (snowball
-      (direction "left")
-      (x 8768)
-      (y 896)
     )
     (snowman
       (direction "left")

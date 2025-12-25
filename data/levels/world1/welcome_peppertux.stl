@@ -54,6 +54,10 @@
       (x 12480)
       (y 672)
     )
+    (firefly
+      (x 5280)
+      (y 832)
+    )
     (jumpy
       (direction "left")
       (x 4736)
@@ -76,7 +80,7 @@
     )
     (mriceblock
       (direction "left")
-      (x 5184)
+      (x 4992)
       (y 896)
     )
     (mriceblock
@@ -130,16 +134,6 @@
       (direction "left")
       (x 2656)
       (y 864)
-    )
-    (snowball
-      (direction "left")
-      (x 5312)
-      (y 896)
-    )
-    (snowball
-      (direction "left")
-      (x 5440)
-      (y 896)
     )
     (snowball
       (direction "left")
