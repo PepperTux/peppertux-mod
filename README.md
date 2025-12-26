@@ -13,6 +13,7 @@ I intend to replace Tux's ground-pound / butt-jump animation with the old image 
 ### PepperTux
 * Vaesea - Levels
 * FilipOK - Art, music that will be added later
+* AnatolyStev - Original "Platforms In The Icy River"
 ### SuperTux Team
 * Grumbel - Art for SuperTux
 * Stephen Groundwater - Art for SuperTux
