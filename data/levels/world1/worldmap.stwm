@@ -44,6 +44,7 @@
       (y 83)
     )
     (level
+      (level "unstable_ice.stl")
       (x 24)
       (y 80)
     )
