@@ -49,6 +49,7 @@
       (y 80)
     )
     (level
+      (level "small_mountain.stl")
       (x 24)
       (y 77)
     )
