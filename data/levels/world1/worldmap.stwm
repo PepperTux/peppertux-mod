@@ -64,10 +64,11 @@
       (y 68)
     )
     (level
-      (x 31)
+      (x 37)
       (y 68)
     )
     (level
+      (level "finding_stars.stl")
       (x 34)
       (y 71)
     )
@@ -76,7 +77,7 @@
       (y 71)
     )
     (level
-      (x 40)
+      (x 43)
       (y 68)
     )
     (level

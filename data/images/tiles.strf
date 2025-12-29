@@ -565,6 +565,8 @@
       3253 3254 3255 3256
       3261 3262 3263 3264
       3265 3266 3267 3268
+      3779 3781 0    0
+      3780 3782 0    0
     )
   )
   (tilegroup
@@ -5289,5 +5291,17 @@
     (image "tiles/tropical/sand.png")
   )
 
-  ;; next-id: 3779
+  (tiles
+    (width 1)
+    (height 4)
+    (ids
+      3779
+      3780
+      3781
+      3782
+    )
+    (image "tiles/snow/icicle.png")
+  )
+
+  ;; next-id: 3783
 )
