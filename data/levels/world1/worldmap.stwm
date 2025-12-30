@@ -135,6 +135,18 @@
       (x 11)
       (y 91)
     )
+    (level
+      (level "yeti_cutscene.stl")
+      (auto-play #t)
+      (x 91)
+      (y 94)
+    )
+    (level
+      (level "yeti_boss.stl")
+      (sprite "/images/worldmap/common/yeti.sprite")
+      (x 95)
+      (y 90)
+    )
     (music
       (file "/music/salcon.ogg")
     )
