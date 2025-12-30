@@ -15,12 +15,12 @@
     )
     (level
       (level "welcome_peppertux.stl")
-      (x 11)
-      (y 91)
+      (x 13)
+      (y 93)
     )
     (level
       (level "bombs_here.stl")
-      (x 17)
+      (x 21)
       (y 93)
     )
     (level
@@ -128,6 +128,12 @@
       (level "quick_level.stl")
       (x 84)
       (y 66)
+    )
+    (level
+      (level "intro.stl")
+      (auto-play #t)
+      (x 11)
+      (y 91)
     )
     (music
       (file "/music/salcon.ogg")
