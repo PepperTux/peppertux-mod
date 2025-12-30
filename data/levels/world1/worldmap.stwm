@@ -81,6 +81,7 @@
       (y 68)
     )
     (level
+      (level "night_mountain.stl")
       (x 40)
       (y 71)
     )
@@ -109,11 +110,11 @@
       (y 89)
     )
     (level
-      (x 70)
+      (x 72)
       (y 93)
     )
     (level
-      (x 77)
+      (x 75)
       (y 93)
     )
     (level
