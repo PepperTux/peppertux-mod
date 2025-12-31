@@ -18,7 +18,7 @@ Although if you want a better experience (and Windows being annoying) than you s
 * BlasterMaster - Art for SuperTux
 * Wansti - Music for SuperTux
 * Jonfx1007 - Improved SuperTux's forest tileset (and since this is a mod with the entire data folder but modified, those improvements are here obviously)
-* Weluvgoatz - Snow fort tiles (used as sand tiles here with the saturation reduced and with it also being recolored)
+* Weluvgoatz - Snow fort tiles (used as sand tiles here with the saturation reduced and with it also being recolored), mushroom decals from SuperTux 0.6.3
 * DJ Gentoo - New Salcon
 ### Everyone Else
 * Bart + opengameart.org - Airship Song
