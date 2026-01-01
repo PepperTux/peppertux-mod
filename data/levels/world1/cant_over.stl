@@ -64,6 +64,10 @@
       (x 9728)
       (y 2592)
     )
+    (firefly
+      (x 5744)
+      (y 2208)
+    )
     (icecrusher
       (x 4128)
       (y 2080)
@@ -875,7 +879,6 @@
     )
     (trampoline
       (portable #f)
-      (sprite "/images/objects/trampoline/trampoline_fix.sprite")
       (x 5024)
       (y 2112)
     )
@@ -885,7 +888,6 @@
     )
     (trampoline
       (portable #f)
-      (sprite "/images/objects/trampoline/trampoline_fix.sprite")
       (x 12768)
       (y 1984)
     )
