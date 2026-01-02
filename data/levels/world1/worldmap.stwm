@@ -151,6 +151,7 @@
       (y 90)
     )
     (level
+      (level "bridge_sky.stl")
       (x 61)
       (y 83)
     )

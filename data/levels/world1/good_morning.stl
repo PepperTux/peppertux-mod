@@ -63,11 +63,6 @@
     )
     (flyingsnowball
       (direction "left")
-      (x 2656)
-      (y 1728)
-    )
-    (flyingsnowball
-      (direction "left")
       (x 2880)
       (y 1696)
     )
@@ -111,14 +106,16 @@
     (path
       (name "gen17672065212239974540080")
       (path
-        (mode "oneshot")
+        (mode "pingpong")
         (node
           (x 2640)
           (y 2880)
+          (time 8)
         )
         (node
           (x 2640)
           (y 1824)
+          (time 8)
         )
       )
     )

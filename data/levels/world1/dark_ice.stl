@@ -6,7 +6,7 @@
   (sector
     (name "main")
     (ambient-light
-      (color 0 0 0)
+      (color 0.5 0.5 0.5)
     )
     (background
       (scroll-speed-x 0)
@@ -89,11 +89,6 @@
       (direction "left")
       (x 8384)
       (y 960)
-    )
-    (lantern
-      (color 0.9 0.9 0.9)
-      (x 160)
-      (y 896)
     )
     (mriceblock
       (direction "left")
