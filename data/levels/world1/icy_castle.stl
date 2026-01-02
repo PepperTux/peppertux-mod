@@ -6,7 +6,7 @@
   (sector
     (name "main")
     (ambient-light
-      (color 1 1 1)
+      (color 0.7 0.6 0.6)
     )
     (bonusblock
       (count 3)
@@ -724,6 +724,44 @@ play_sound(\"sounds/iceblock_bump.wav\");")
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       )
     )
+    (torch
+      (x 544)
+      (y 768)
+    )
+    (torch
+      (sprite "/images/objects/torch/torch3.sprite")
+      (x 5024)
+      (y 768)
+    )
+    (torch
+      (sprite "/images/objects/torch/torch3.sprite")
+      (x 7200)
+      (y 544)
+    )
+    (torch
+      (sprite "/images/objects/torch/torch3.sprite")
+      (x 7392)
+      (y 544)
+    )
+    (torch
+      (x 9088)
+      (y 704)
+    )
+    (torch
+      (sprite "/images/objects/torch/torch2.sprite")
+      (x 11424)
+      (y 832)
+    )
+    (torch
+      (sprite "/images/objects/torch/torch3.sprite")
+      (x 15056)
+      (y 672)
+    )
+    (torch
+      (sprite "/images/objects/torch/torch3.sprite")
+      (x 15696)
+      (y 672)
+    )
     (trampoline
       (sprite "/images/objects/trampoline/trampoline.sprite")
       (x 7008)
@@ -1062,12 +1100,12 @@ play_sound(\"sounds/iceblock_bump.wav\");")
         (node
           (x 10496)
           (y 768)
-          (time 10)
+          (time 6)
         )
         (node
-          (x 11296)
+          (x 11168)
           (y 768)
-          (time 10)
+          (time 6)
         )
       )
     )
