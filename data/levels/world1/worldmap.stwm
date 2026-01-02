@@ -98,25 +98,26 @@
       (y 79)
     )
     (level
-      (x 61)
-      (y 83)
+      (x 63)
+      (y 77)
     )
     (level
-      (x 64)
-      (y 89)
+      (x 66)
+      (y 91)
     )
     (level
-      (x 72)
+      (level "broken_bridge.stl")
+      (x 70)
       (y 93)
     )
     (level
-      (x 75)
+      (x 76)
       (y 93)
     )
     (level
       (level "dark_ice.stl")
-      (x 63)
-      (y 77)
+      (x 59)
+      (y 71)
     )
     (level
       (level "flooded_cavern.stl")
@@ -148,11 +149,11 @@
     )
     (level
       (x 61)
-      (y 86)
+      (y 83)
     )
     (level
-      (x 84)
-      (y 94)
+      (x 62)
+      (y 87)
     )
     (music
       (file "/music/salcon.ogg")
