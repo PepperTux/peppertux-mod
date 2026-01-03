@@ -68,12 +68,12 @@
     )
     (fish
       (direction "left")
-      (x 4752)
+      (x 4736)
       (y 736)
     )
     (fish
       (direction "left")
-      (x 5328)
+      (x 5344)
       (y 736)
     )
     (goldbomb
