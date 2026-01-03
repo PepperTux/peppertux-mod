@@ -1,0 +1,6 @@
+(supertux-world
+  (title (_ "Menu"))
+  (description "Menu level")
+  (hide-from-contribs #f)
+  (levelset #t)
+)

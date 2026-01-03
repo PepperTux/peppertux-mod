@@ -46,6 +46,10 @@
       (x 8808)
       (y 808)
     )
+    (firefly
+      (x 5248)
+      (y 576)
+    )
     (flyingsnowball
       (direction "left")
       (x 9056)

@@ -34,7 +34,7 @@
       (y 85)
     )
     (level
-      (level "jumping_bouncing.stl")
+      (level "platforming.stl")
       (x 28)
       (y 84)
     )
@@ -104,7 +104,7 @@
       (y 77)
     )
     (level
-      (level "platforming.stl")
+      (level "jumping_bouncing.stl")
       (x 66)
       (y 91)
     )
