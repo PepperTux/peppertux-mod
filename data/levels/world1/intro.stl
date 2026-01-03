@@ -5,7 +5,7 @@
   (license "CC-BY-SA 4.0 International")
   (sector
     (name "main")
-    (init-script "Text.set_text(\"Somewhere in a very cold place named Icy island...\");
+    (init-script "Text.set_text(\"Somewhere in a very cold place named Icy Island...\");
 Tux.set_bonus(\"grow\");
 Letter.set_visible(false);
 Nolok.set_action(\"stand-left\");
@@ -86,7 +86,7 @@ Tux.walk(320);")
       (oneshot #t)
       (script "Tux.walk(0);
 wait(1);
-Text.set_text(\"There were two penguins named Tux and Penny\");
+Text.set_text(\"There were two penguins named Tux and Penny.\");
 Text.set_font(\"normal\");
 Text.fade_in(1);
 wait(3);
@@ -97,23 +97,27 @@ Text.fade_in(1);
 wait(3);
 Text.fade_out(1);
 wait(1.5);
-Nolok.set_action(\"jump-left\");
+Nolok.set_action(\"walk-left\");
 Nolok.set_velocity(-320, -256);
-wait(0.3);
+wait(0.1);
+Tux.walk(-140);
+Tux.do_jump(-256);
+wait(0.2);
 Effect.fade_out(0.1);
 wait(0.1);
+Tux.walk(0);
 Penny.set_solid(false);
 Penny.set_visible(false);
 Nolok.set_solid(false);
 Nolok.set_visible(false);
 Letter.set_visible(true);
-Tux.kill(false);
+Fish.set_visible(false);
 wait(2);
 Effect.fade_in(1);
 wait(1.5);
 Text.set_text(\"Tux and Penny were attacked by Nolok, and Nolok had put a letter on the tree!\");
 Text.fade_in(1);
-wait(3);
+wait(4);
 Text.fade_out(1);
 wait(1.5);
 Tux.walk(320);")
