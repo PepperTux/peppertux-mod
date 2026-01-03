@@ -104,12 +104,13 @@
       (y 77)
     )
     (level
+      (level "platforming.stl")
       (x 66)
       (y 91)
     )
     (level
       (level "broken_bridge.stl")
-      (x 70)
+      (x 71)
       (y 93)
     )
     (level
