@@ -58,13 +58,27 @@
     )
     (mrbomb
       (direction "left")
+      (sprite "/images/creatures/mr_bomb/old/mr_bomb.sprite")
+      (x 1408)
+      (y 800)
+    )
+    (mrbomb
+      (direction "left")
+      (sprite "/images/creatures/mr_bomb/old/mr_bomb.sprite")
       (x 3072)
       (y 768)
     )
     (mrbomb
       (direction "left")
+      (sprite "/images/creatures/mr_bomb/old/mr_bomb.sprite")
       (x 3040)
       (y 640)
+    )
+    (mrbomb
+      (direction "left")
+      (sprite "/images/creatures/mr_bomb/old/mr_bomb.sprite")
+      (x 3008)
+      (y 512)
     )
     (music
       (file "/music/greatgigantic.music")

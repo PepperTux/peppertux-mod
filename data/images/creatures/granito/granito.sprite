@@ -1,0 +1,54 @@
+(supertux-sprite
+ (action
+  (name "lookdown-left")
+  (hitbox 17 4 164 260)
+  (images "look-down.png")
+ )
+
+ (action
+  (name "lookdown-right")
+  (hitbox 17 4 164 260)
+  (mirror-action "lookdown-left")
+ )
+
+ (action
+  (name "look-left")
+  (hitbox 17 4 164 260)
+  (images "look-left.png")
+ )
+
+ (action
+  (name "look-right")
+  (hitbox 17 4 164 260)
+  (mirror-action "look-left")
+ )
+
+ (action
+  (name "lookup-left")
+  (hitbox 17 4 164 260)
+  (images "look-up.png")
+ )
+
+ (action
+  (name "lookup-right")
+  (hitbox 17 4 164 260)
+  (mirror-action "lookup-left")
+ )
+
+ (action
+  (name "walk-left")
+  (fps 8.0)
+  (hitbox 17 4 164 260)
+  (images "walk-0.png"
+          "walk-1.png"
+          "walk-2.png"
+          "walk-3.png")
+ )
+
+ (action
+  (name "walk-right")
+  (fps 8.0)
+  (hitbox 17 4 164 260)
+  (mirror-action "walk-left")
+ )
+)
