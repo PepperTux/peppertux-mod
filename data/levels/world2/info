@@ -1,0 +1,6 @@
+(supertux-world
+  (title (_ "Forest Island"))
+  (description "The second world of PepperTux.")
+  (hide-from-contribs #f)
+  (levelset #f)
+)

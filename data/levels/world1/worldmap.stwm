@@ -164,10 +164,10 @@
     (music
       (file "/music/salcon.ogg")
     )
-    (special-tile
-      (map-message (_ "Forest Island will be added soon!"))
-      (invisible-tile #t)
-      (passive-message #t)
+    (teleporter
+      (worldmap "/levels/world2/worldmap.stwm")
+      (spawnpoint "main")
+      (message (_ "Go to Forest Island?"))
       (x 99)
       (y 90)
     )
