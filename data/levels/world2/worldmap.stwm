@@ -91,6 +91,7 @@
       (y 62)
     )
     (level
+      (level "welcome_ghost_forest.stl")
       (x 72)
       (y 66)
     )
@@ -139,12 +140,6 @@
       (level "forest_intro.stl")
       (auto-play #t)
       (x 17)
-      (y 66)
-    )
-    (level
-      (level "ghost_intro.stl")
-      (auto-play #t)
-      (x 66)
       (y 66)
     )
     (music
