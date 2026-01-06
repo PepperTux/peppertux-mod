@@ -162,7 +162,7 @@
     (icon "images/creatures/yeti/hudlife.png"))
   (object
     (class "ghosttree")
-    (icon "images/creatures/ghosttree/ghosttree.png"))
+    (icon "images/creatures/ghosttree/normal.png"))
  )
 
  (objectgroup

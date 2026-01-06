@@ -41,6 +41,7 @@
       (y 62)
     )
     (level
+      (level "island_trees.stl")
       (x 29)
       (y 70)
     )
@@ -124,11 +125,6 @@
       (y 37)
     )
     (level
-      (sprite "/images/worldmap/common/ghosttree.sprite")
-      (x 46)
-      (y 37)
-    )
-    (level
       (x 74)
       (y 40)
     )
@@ -141,6 +137,12 @@
       (auto-play #t)
       (x 17)
       (y 66)
+    )
+    (level
+      (level "ghost_tree.stl")
+      (sprite "/images/worldmap/common/shroom.sprite")
+      (x 46)
+      (y 37)
     )
     (music
       (file "/music/forestmap.ogg")
