@@ -54,6 +54,7 @@
       (y 64)
     )
     (level
+      (level "to_sky.stl")
       (x 33)
       (y 60)
     )
@@ -101,6 +102,7 @@
       (y 64)
     )
     (level
+      (level "ghostly_skulls.stl")
       (x 89)
       (y 59)
     )
